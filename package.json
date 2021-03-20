@@ -1,10 +1,21 @@
 {
     "name": "tic-darkux",
     "displayName": "DarkUX2",
-    "description": "dark monokai",
+    "description": "dark monokai based theme. Few features added like unnecessary code highlight",
+    "publisher": "tic",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.54.0"
+    },
+    "icon": "images/bat.png",
+    "author": {
+        "name": "Alexandre CALVET",
+        "email": "calvet.alexandre@epitech.eu",
+        "url": "https://github.com/calvetalex/DarkUx/"
+    },
+    "repository": {
+        "url": "https://github.com/calvetalex/DarkUx/",
+        "type": "git",
     },
     "categories": [
         "Themes"
