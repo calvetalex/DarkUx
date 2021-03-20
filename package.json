@@ -3,7 +3,7 @@
     "displayName": "DarkUX2",
     "description": "dark monokai based theme. Few features added like unnecessary code highlight",
     "publisher": "AlexandreCALVET",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.54.0"
     },
