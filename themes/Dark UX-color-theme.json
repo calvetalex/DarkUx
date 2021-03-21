@@ -6,7 +6,7 @@
 		"editorCursor.foreground": "#ffffff",
 		"editor.foreground": "#F8F8F2",
 		"editorWhitespace.foreground": "#47463c",
-		"editor.lineHighlightBackground": "#422b2b80",
+		"editor.lineHighlightBackground": "#422b2b78",
 		"editor.selectionBackground": "#3e4449",
 		"activityBarBadge.background": "#b11919",
 		"sideBarTitle.foreground": "#eee2e2",
@@ -19,9 +19,6 @@
 		"gitDecoration.untrackedResourceForeground": "#73ffdc",
 		"activityBar.background": "#110c0c",
 		"sideBar.background": "#140e0e",
-		"titleBar.activeForeground": "#ffffff",
-		"titleBar.inactiveForeground": "#fffdfda9",
-		"titleBar.inactiveBackground": "#2a2a2a",
 		"statusBar.background": "#6d20206b",
 		"tab.inactiveBackground": "#1d1c1cce",
 		"editorGroupHeader.noTabsBackground": "#000000",
@@ -33,7 +30,7 @@
 			"scope": "comment",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#75715eab"
+				"foreground": "#7a7a7a"
 			}
 		},
 		{
@@ -69,7 +66,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic bold",
-				"foreground": "#164361"
+				"foreground": "#30709b"
 			}
 		},
 		{
@@ -77,7 +74,7 @@
 			"scope": "variable",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#bddfff",
+				"foreground": "#bedbf6",
 			}
 		},
 		{
@@ -85,7 +82,7 @@
 			"scope": "keyword",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#661231"
+				"foreground": "#800909"
 			}
 		},
 		{
@@ -93,15 +90,15 @@
 			"scope": "storage",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#9a26f9"
+				"foreground": "#8d6dff"
 			}
 		},
 		{
 			"name": "Storage type",
 			"scope": "storage.type",
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#667bef"
+				"fontStyle": "",
+				"foreground": "#b644f8"
 			}
 		},
 		{
@@ -236,15 +233,15 @@
 			"scope": "support.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#66D9EF"
+				"foreground": "#00fae5"
 			}
 		},
 		{
 			"name": "Library constant",
 			"scope": "support.constant",
 			"settings": {
-				"fontStyle": "",
-				"foreground": "#66D9EF"
+				"fontStyle": "bold",
+				"foreground": "#225661"
 			}
 		},
 		{
@@ -255,7 +252,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#66D9EF"
+				"foreground": "#05d2fb"
 			}
 		},
 		{

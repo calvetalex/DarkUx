@@ -1,32 +1,37 @@
 {
-    "name": "tic-darkux",
-    "displayName": "DarkUX2",
-    "description": "dark monokai based theme. Few features added like unnecessary code highlight",
-    "publisher": "AlexandreCALVET",
-    "version": "1.0.0",
-    "engines": {
-        "vscode": "^1.54.0"
-    },
-    "icon": "images/bat.png",
-    "author": {
-        "name": "Alexandre CALVET",
-        "email": "calvet.alexandre@epitech.eu",
-        "url": "https://github.com/calvetalex/DarkUx/"
-    },
-    "repository": {
-        "url": "https://github.com/calvetalex/DarkUx/",
-        "type": "git"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Darker UX",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Dark UX-color-theme.json"
-            }
-        ]
-    }
+	"name": "tic-darkux",
+	"displayName": "DarkUX2",
+	"description": "dark monokai based theme. Few features added like unnecessary code highlight",
+	"publisher": "AlexandreCALVET",
+	"version": "1.0.2",
+	"engines": {
+		"vscode": "^1.54.0"
+	},
+	"icon": "images/bat.png",
+	"author": {
+		"name": "Alexandre CALVET",
+		"email": "calvet.alexandre@epitech.eu",
+		"url": "https://github.com/calvetalex/DarkUx/"
+	},
+	"repository": {
+		"url": "https://github.com/calvetalex/DarkUx/",
+		"type": "git"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Darker UX",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dark UX-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "52b0663a-24f3-49b8-b77f-5532978b0db3",
+		"publisherDisplayName": "Alexandre CALVET",
+		"publisherId": "56368c2f-a1c5-46fa-9f42-8405a819c72a"
+	}
 }
